@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-id="BailenTV.es" tvg-logo="https://i.imgur.com/a64hwzq.png" group-title="Undefined",Bailén TV (720p) [Not 24/7]
+http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="VerbenaTV.es" tvg-logo="https://verbenafm.com/wp-content/uploads/2022/08/logoverbenatv-300x300.png" group-title="Music",Verbena TV (1080p)
+https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
